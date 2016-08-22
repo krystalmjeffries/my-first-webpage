@@ -21,5 +21,15 @@ h3 {
   font-size: 15px;
   font-style: italic;
   font-family: arial;
+}
 
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 25%;
+  font-style: italic;
+  font-weight: bold;
 }
